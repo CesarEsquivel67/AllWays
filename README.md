@@ -45,11 +45,7 @@ AllWays es una aplicación Android desarrollada para el Hackathon de Solana que 
 
 ## Integración con Solana
 
-- **Red**: Devnet
-- **Mecanismo de recompensa**: Cuando una reseña es publicada, la app llama al RPC de Solana Devnet para enviar un airdrop de SOL a la dirección de cartera del autor almacenada en Firestore
-- **Conexión de cartera**: Requiere wallet conectada
-
-> Esta app utiliza Solana **Devnet** para pruebas. Los tokens no tienen valor monetario real.
+-Backend python con Flask que actua como intermediario entre la App Android y Solana Blockchain. Recibe solicitudes HTTP de recompensa, las valida, las guarda en JSON local, y responde con confirmacion. Sin el, la app no puede enviar tokens de Solana
 
 ---
 
