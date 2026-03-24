@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "recipient": "user123",
+    "amount": 10,
+    "reason": "accessibility_info",
+    "transaction_hash": "baeb9e785549ac4004062623ddb8f3b434b361a4762e",
+    "status": "confirmed",
+    "timestamp": "2026-03-23T11:56:44.925176",
+    "metadata": {
+      "placeId": "lugar1"
+    }
+  },
+  {
+    "id": 2,
+    "recipient": "guest",
+    "amount": 10,
+    "reason": "accessibility_info",
+    "transaction_hash": "21c8f3cec28e71e84026b8d49c50c1edaa4495656cf8",
+    "status": "confirmed",
+    "timestamp": "2026-03-23T19:34:06.430473",
+    "metadata": {
+      "placeId": "places",
+      "infoId": "0beefac9-d217-4f43-95c9-29babbc919b7"
+    }
+  },
+  {
+    "id": 3,
+    "recipient": "guest",
+    "amount": 10,
+    "reason": "accessibility_info",
+    "transaction_hash": "28fd5814a813c954b4e4ad22fcc8d291f7ddbdd15b9a",
+    "status": "confirmed",
+    "timestamp": "2026-03-23T19:34:40.265957",
+    "metadata": {
+      "placeId": "places",
+      "infoId": "3a2ebfeb-3daf-493a-9fbd-4ac63ac99fc8"
+    }
+  },
+  {
+    "id": 4,
+    "recipient": "guest",
+    "amount": 10,
+    "reason": "accessibility_info",
+    "transaction_hash": "524de496c5d7ee30b46907d10a1476e2a3a231122978",
+    "status": "confirmed",
+    "timestamp": "2026-03-23T19:38:29.978425",
+    "metadata": {
+      "placeId": "places",
+      "infoId": "76a5b2f1-56fb-4b3c-a843-604feac9bc04"
+    }
+  },
+  {
+    "id": 5,
+    "recipient": "Pv7y8an4ptVPLk5cJaJNLjGrQ312",
+    "amount": 10,
+    "reason": "accessibility_info",
+    "transaction_hash": "0c078e8a50575696ae14ca3a8c22e3e30dedea8bacd3",
+    "status": "confirmed",
+    "timestamp": "2026-03-23T19:40:28.146805",
+    "metadata": {
+      "placeId": "places",
+      "infoId": "31f8b3f1-fc48-40af-ba82-3f13952a4992"
+    }
+  },
+  {
+    "id": 6,
+    "recipient": "Pv7y8an4ptVPLk5cJaJNLjGrQ312",
+    "amount": 10,
+    "reason": "accessibility_info",
+    "transaction_hash": "2169b0a71cf6483c03be15c6eeac4cfddaf45f95361c",
+    "status": "confirmed",
+    "timestamp": "2026-03-23T20:01:33.280571",
+    "metadata": {
+      "placeId": "places",
+      "infoId": "6e982b13-9fa3-4f0c-b6a3-19d57fdc2ec4"
+    }
+  },
+  {
+    "id": 7,
+    "recipient": "Pv7y8an4ptVPLk5cJaJNLjGrQ312",
+    "amount": 10,
+    "reason": "accessibility_info",
+    "transaction_hash": "df29f83adbf95cabb46a23aff8973f977f80e5fdcd5e",
+    "status": "confirmed",
+    "timestamp": "2026-03-23T20:11:11.748676",
+    "metadata": {
+      "placeId": "f10e0788-c0c4-45cb-8108-eccd3d11e3ae",
+      "infoId": "cda9f932-c5ef-4618-b884-843730ea69f6"
+    }
+  },
+  {
+    "id": 8,
+    "recipient": "Pv7y8an4ptVPLk5cJaJNLjGrQ312",
+    "amount": 10,
+    "reason": "accessibility_info",
+    "transaction_hash": "7cc7c148f5495f8101de36cb833370f7abe7f9722055",
+    "status": "confirmed",
+    "timestamp": "2026-03-23T20:12:02.230038",
+    "metadata": {
+      "placeId": "places",
+      "infoId": "ba7b445f-90f3-4d11-872a-fdddd3dbce26"
+    }
+  }
+]

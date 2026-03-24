@@ -1,0 +1,26 @@
+nohup: no se tendrá en cuenta la entrada
+
+============================================================
+🚀 Backend AllWays Solana iniciando...
+============================================================
+📍 Servidor corriendo en: http://localhost:5000
+🌐 Red: devnet
+📂 Datos guardados en: /home/alvaro-cobra/allways-solana-backend/rewards_db.json
+============================================================
+
+⚠️  Para detener el servidor: Presiona Ctrl + C
+
+============================================================
+
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.4.160:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 535-091-617
+127.0.0.1 - - [23/Mar/2026 12:08:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Mar/2026 12:09:49] "GET / HTTP/1.1" 200 -
