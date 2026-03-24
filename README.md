@@ -8,11 +8,11 @@ AllWays es una aplicación Android desarrollada para el Hackathon de Solana que 
 
 ## Funcionalidades
 
-- **Autenticación** — Inicio de sesión con correo/contraseña mediante Firebase Auth, o continuar como invitado
-- **Cartera Solana** — Conecta una cartera Solana para recibir recompensas en tokens (requiere Phantom en un dispositivo físico)
-- **Buscar Lugares** — Explora y busca lugares accesibles con fotos
-- **Detalles del Lugar** — Consulta descripciones, direcciones e indicaciones de referencia
-- **Reseñas de Accesibilidad** — Envía respuestas estructuradas de sí/no para características de accesibilidad como:
+- **Autenticación** - Inicio de sesión con correo/contraseña mediante Firebase Auth, o continuar como invitado
+- **Cartera Solana** - Conecta una cartera Solana para recibir recompensas en tokens (requiere Phantom en un dispositivo físico)
+- **Buscar Lugares** - Explora y busca lugares accesibles con fotos
+- **Detalles del Lugar** - Consulta descripciones, direcciones e indicaciones de referencia
+- **Reseñas de Accesibilidad** - Envía respuestas estructuradas de sí/no para características de accesibilidad como:
   - Señalización en Braille
   - Franjas táctiles para bastón
   - Botones de asistencia
@@ -20,9 +20,9 @@ AllWays es una aplicación Android desarrollada para el Hackathon de Solana que 
   - Estacionamiento accesible
   - Baños accesibles
   - Señales de audio
-- **Subida de Fotos** — Adjunta fotos a lugares y reseñas mediante Cloudinary
-- **Sistema de Votos** — Vota por reseñas útiles; los autores ganan tokens SOL en Devnet por publicar reseñas
-- **Resumen Comunitario** — Consulta los porcentajes de sí/no de cada característica de accesibilidad por lugar
+- **Subida de Fotos** - Adjunta fotos a lugares y reseñas mediante Cloudinary
+- **Sistema de Votos** - Vota por reseñas útiles; los autores ganan tokens SOL en Devnet por publicar reseñas
+- **Resumen Comunitario** - Consulta los porcentajes de sí/no de cada característica de accesibilidad por lugar
 
 ---
 
