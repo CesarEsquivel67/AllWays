@@ -56,7 +56,9 @@ AllWays es una aplicación Android desarrollada para el Hackathon de Solana que 
 ## Equipo
 
 Cesar Alejandro Esquivel Calzada
+
 Alonso Gamino Nuñez
+
 Alvaro Obed Mejia Pimentel
 
 ---
